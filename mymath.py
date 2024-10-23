@@ -10,6 +10,9 @@ def multiply_three(a, b, c):
 def divide_three(a, b, c):
     return a/b/c
 
+def power(a, b):
+    return a**b+1
+
 if __name__ == '__main__':
 
     print(subtract_three(2, 3, 4))

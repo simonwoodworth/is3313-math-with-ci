@@ -8,3 +8,6 @@ def test_mymath_sub():
 
 def test_mymath_multiply():
     assert mymath.multiply_three(8, 2, 1) == 16
+
+def test_mymath_power():
+    assert mymath.power(2, 3) == 8
