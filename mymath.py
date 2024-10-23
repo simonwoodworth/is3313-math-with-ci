@@ -11,7 +11,7 @@ def divide_three(a, b, c):
     return a/b/c
 
 def power(a, b):
-    return a**b+1
+    return a**b
 
 if __name__ == '__main__':
 
